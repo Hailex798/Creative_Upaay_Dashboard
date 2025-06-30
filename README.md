@@ -44,7 +44,7 @@ I have completed **all Level 1 functionalities** and implemented key features fr
 |-------------------------------|-----------|---------|
 | ✅ Basic Authentication       | Completed | Secured with **Auth0** |
 | ✅ Subtasks per Task          | Completed | Each task supports nested subtasks |
-| ✅ Custom Task Fields         | Added Custom Tasks such as Priority Levels |
+| ✅ Custom Task Fields         | Completed | Added Custom Tasks such as Priority Levels |
 | ❌ Due Date & Reminder        | Not implemented |
 | ❌ Socket.io Real-Time Sync   | Not implemented |
 | ❌ Activity Log               | Not implemented |
