@@ -12,11 +12,11 @@ const root = createRoot(document.getElementById("root"));
 // Determine environment
 const isProduction = import.meta.env.PROD;
 const redirectUri = isProduction
-  ? "https://creative-upaay-dashboard.netlify.app/home"
+  ? "https://creative-upaay-dashboard.vercel.app/home"
   : "http://localhost:5173/home";
 
 const logoutUri = isProduction
-  ? "https://creative-upaay-dashboard.netlify.app"
+  ? "https://creative-upaay-dashboard.vercel.app"
   : "http://localhost:5173";
 
 root.render(
