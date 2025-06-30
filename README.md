@@ -56,7 +56,7 @@ I have completed **all Level 1 functionalities** and implemented key features fr
 
 ## 📽️ Demo & Screenshots
 
-🌐 Video: ![Google Drive Link](https://drive.google.com/file/d/19ftKZ7nI9XFyepvcVqgYvuNPJ0YWuVpt/view?usp=sharing)
+🌐 Video: [Google Drive Link](https://drive.google.com/file/d/19ftKZ7nI9XFyepvcVqgYvuNPJ0YWuVpt/view?usp=sharing)
 
 [![Click to Watch](./src/assets/samples/gif.gif)](https://drive.google.com/file/d/19ftKZ7nI9XFyepvcVqgYvuNPJ0YWuVpt/view?usp=sharing)  
 *Click the preview above to view the full video demo.*
