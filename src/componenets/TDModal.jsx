@@ -31,7 +31,7 @@ const TDModal = ({ modalData, setTodoModal }) => {
           value={form.name}
           onChange={(e) => setForm({ ...form, name: e.target.value })}
           placeholder="Task Name"
-          className="w-full h-10 rounded-lg  mt-3 border border-black p-2 placeholder:pr-2 "
+          className="w-full h-10 rounded-lg  mt-3 border border-black p-2 placeholder:pr-2 focus:border-[#1976d2] focus:outline-none focus:ring-1 focus:ring-[#1976d2] transition-colors"
         />
         <input
           type="text"
@@ -39,12 +39,25 @@ const TDModal = ({ modalData, setTodoModal }) => {
           value={form.description}
           onChange={(e) => setForm({ ...form, description: e.target.value })}
           placeholder="Task Description"
-          className="w-full h-10 rounded-lg border border-black p-2 placeholder:pr-2 "
+          className="w-full h-10 rounded-lg border border-black p-2 placeholder:pr-2 focus:border-[#1976d2] focus:outline-none focus:ring-1 focus:ring-[#1976d2] transition-colors"
         />
 
         <div>
           <FormControl
-            sx={{ m: 2, width: 300, background: "white", borderRadius: "10px" }}
+            sx={{ 
+              m: 2,
+              width: 300, 
+              background: "white", 
+              borderRadius: "10px",
+              "& .MuiInputLabel-root": {
+                "&.Mui-focused": {
+                  color: "#1976d2",
+                  transform: "translate(14px, -9px) scale(0.75)", // Adjust position
+                  backgroundColor: "white", // Add background to prevent border cut-off
+                  padding: "0 4px", // Add padding for the background
+                },
+              },
+              }}
             size="small"
           >
             <InputLabel id="demo-select-small-label">

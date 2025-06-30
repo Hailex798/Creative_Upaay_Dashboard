@@ -97,7 +97,7 @@ const TodoCard = ({
           onPointerDown={(e) => e.stopPropagation()}
           onFocus={() => setInputFocused(true)}
           onBlur={() => setInputFocused(false)}
-          className="bg-gray-100 placeholder:pl-2 p-1 pl-2 active:border-[2px] border-black placeholder:font-light placeholder:text-gray w-[80%]  rounded-md"
+          className="bg-gray-100 p-1 pl-2 active:border-[2px] border-black placeholder:font-light placeholder:text-gray w-[80%]  rounded-md"
         />
 
         <div
