@@ -1,6 +1,6 @@
 # 🎨 Creative Upaay Dashboard
 
-🌐 [Live Demo](https://creative-upaay-dashboard.netlify.app/)  
+🌐 [Live Demo](https://creative-upaay-dashboard.vercel.app/) 
 📦 Full Stack Assignment | 🛠️ Auth0 + Redux + Drag & Drop + Subtasks
 
 Welcome to the Creative Upaay Full Stack Assignment repository! This dashboard showcases modern frontend development using **React**, **Redux**, **Material UI**, **Tailwind CSS**, and **Auth0** for authentication.  
