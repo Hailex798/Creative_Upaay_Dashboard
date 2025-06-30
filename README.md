@@ -1,6 +1,7 @@
 # 🎨 Creative Upaay Dashboard
 
 🌐 [Live Demo](https://creative-upaay-dashboard.vercel.app/) 
+
 📦 Full Stack Assignment | 🛠️ Auth0 + Redux + Drag & Drop + Subtasks
 
 Welcome to the Creative Upaay Full Stack Assignment repository! This dashboard showcases modern frontend development using **React**, **Redux**, **Material UI**, **Tailwind CSS**, and **Auth0** for authentication.  
@@ -54,6 +55,11 @@ I have completed **all Level 1 functionalities** and implemented key features fr
 ---
 
 ## 📽️ Demo & Screenshots
+
+🌐 Video: ![Google Drive Link](https://drive.google.com/file/d/19ftKZ7nI9XFyepvcVqgYvuNPJ0YWuVpt/view?usp=sharing)
+
+[![Click to Watch](./src/assets/samples/gif.gif)](https://drive.google.com/file/d/19ftKZ7nI9XFyepvcVqgYvuNPJ0YWuVpt/view?usp=sharing)  
+*Click the preview above to view the full video demo.*
 
 ### 📍 Dashboard Overview
 
