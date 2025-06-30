@@ -53,6 +53,54 @@ I have completed **all Level 1 functionalities** and implemented key features fr
 
 ---
 
+## 📽️ Demo & Screenshots
+
+### 📍 Dashboard Overview
+
+![Dashboard Overview](./src/assets/samples/dashboard.png)
+*The main dashboard UI with three stages: To Do, In Progress, and Done.*
+
+---
+
+### 📝 Add Task Modal
+
+![Add Task Modal](./src/assets/samples/addTask1.png)
+![Add Task Modal Edit](./src/assets/samples/addTask2.png)
+*A modal interface for adding a new task with title and description.*
+
+---
+
+### 🔁 Drag & Drop in Action
+
+![Drag and Drop](./src/assets/samples/drag.png)
+*Tasks being dragged and dropped smoothly between different sections.*
+
+---
+
+### 🔍 Task Filtering Feature
+
+![Task Filtering](./src/assets/samples/filterOptions.png)
+![Task Filtering Dashboard](./src/assets/samples/filteredDashboard.png)
+*Live filtering of tasks based on keywords or categories.*
+
+---
+
+### 🔐 Auth0 Login Flow
+
+![Auth0 Login](./src/assets/samples/login.png)
+![Auth0 Login Options](./src/assets/samples/loginOptions.png)
+*Secure authentication using Auth0 - login screen with social options.*
+
+---
+
+### 🪜 Subtasks View
+
+![Subtasks](./src/assets/samples/subtask.png)
+*Expanded task view showing nested subtasks under a parent task.*
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category           | Tech Used |
@@ -98,12 +146,6 @@ REACT_APP_AUTH0_CLIENT_ID=your-client-id
 # 4. Start the app
 npm start
 ```
-
----
-
-## 📽️ Demo & Screenshots
-
-> Coming soon: A video demo and sample screenshots showcasing task management, drag-drop, subtasks, and auth flow.
 
 ---
 
